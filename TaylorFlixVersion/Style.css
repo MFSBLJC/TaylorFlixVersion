@@ -1,0 +1,21 @@
+body{
+background: rgb(119, 0, 0);
+color:black; 
+font-family: "Dancing Script", cursive;
+}
+header { 
+border-bottom: solid 2px rgb(145, 38, 38);
+padding: 0px;
+font-size: 32px;
+color: rgb(145, 38, 38)
+}
+section{
+    background: rgb(119, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+div {
+    margin-right: 5%;
+}
